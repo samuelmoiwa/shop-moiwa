@@ -2,7 +2,7 @@
   "name": "react-redux-crud-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://samuelmoiwa.github.io/react-redux-capstone-project",
+  "homepage": "https://samuelmoiwa.github.io/shop-moiwa",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
