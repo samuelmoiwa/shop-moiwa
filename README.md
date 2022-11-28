@@ -110,7 +110,7 @@ After you're finished please remove all the comments and instructions!
 
 - [Live Demo Link](https://samuelmoiwa.github.io/shop-moiwa/#/)
 
-- [Loom video link](https://www.loom.com/share/8276eadf384d4fd29e7a01214553342a)
+- [Loom video link](https://www.loom.com/share/31f4257491774827ae14add6e2bfdb61)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
