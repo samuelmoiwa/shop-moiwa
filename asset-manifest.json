@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shop-moiwa/static/css/main.fe2bbf5d.chunk.css",
+    "main.js": "/shop-moiwa/static/js/main.74150e92.chunk.js",
+    "main.js.map": "/shop-moiwa/static/js/main.74150e92.chunk.js.map",
+    "runtime-main.js": "/shop-moiwa/static/js/runtime-main.032be424.js",
+    "runtime-main.js.map": "/shop-moiwa/static/js/runtime-main.032be424.js.map",
+    "static/js/2.c2ff4b54.chunk.js": "/shop-moiwa/static/js/2.c2ff4b54.chunk.js",
+    "static/js/2.c2ff4b54.chunk.js.map": "/shop-moiwa/static/js/2.c2ff4b54.chunk.js.map",
+    "index.html": "/shop-moiwa/index.html",
+    "static/css/main.fe2bbf5d.chunk.css.map": "/shop-moiwa/static/css/main.fe2bbf5d.chunk.css.map",
+    "static/js/2.c2ff4b54.chunk.js.LICENSE.txt": "/shop-moiwa/static/js/2.c2ff4b54.chunk.js.LICENSE.txt",
+    "static/media/shopping_bag.8bdd0b5d.png": "/shop-moiwa/static/media/shopping_bag.8bdd0b5d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.032be424.js",
+    "static/js/2.c2ff4b54.chunk.js",
+    "static/css/main.fe2bbf5d.chunk.css",
+    "static/js/main.74150e92.chunk.js"
+  ]
+}
