@@ -57,17 +57,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Shop Moiwa] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Shop Moiwa]** is an online shopping platform that show case varieties of products for the users to have easy access to things they want to buy
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">React Redux</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> In this project I used JavaScript, React, Redux, html, css, tailwind
 
 <details>
   <summary>Client</summary>
@@ -79,14 +79,14 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://axios-http.com/">Axios.js</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://fakestoreapi.com/">Fake Store API</a></li>
   </ul>
 </details>
 
@@ -96,9 +96,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[async await axios]**
+- **[Redux store]**
+- **[React Router]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +108,9 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://samuelmoiwa.github.io/react-redux-capstone-project/#/)
+
+- [Loom video link](https://www.loom.com/share/8276eadf384d4fd29e7a01214553342a)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,75 +126,75 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
+
 Example command:
 
 ```sh
- gem install rails
+ npm install 
 ```
- -->
+
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
+
 Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/samuelmoiwa/react-redux-capstone-project
 ```
---->
+-
 
 ### Install
 
 Install this project with:
 
-<!--
+
 Example command:
 
 ```sh
-  cd my-project
-  gem install
+  cd react-redux-capstone-project
+  npm install
 ```
---->
+-
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
+
 Example command:
 
 ```sh
-  rails server
+  npm start
 ```
---->
+-
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
+
 Example command:
 
 ```sh
-  bin/rails test test/models/article_test.rb
+  npm test
 ```
---->
+-
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
+
 Example:
 
 ```sh
-
+  git pages
 ```
- -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -202,17 +204,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Abdulai Samuel Moiwa**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/samuelmoiwa)
+- Twitter: [@twitterhandle](https://twitter.com/samuelmoiwa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ing-abdulai-samuel-moiwa-726340142/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,9 +218,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Search]**
+- [ ] **[save to local storage]**
+- [ ] **[user auth]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,11 +246,12 @@ If you like this project...
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name="Dipesh Malvia"></a>
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Dipesh Malvia for such a wonderful tutorial <br>
+Thanks to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for the beautiful design template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -264,13 +261,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[What API are you getting this data from]**
 
-  - [Answer_1]
+  - [Fake Store API]
 
-- **[Question_2]**
+- **[How can I contribute to this app]**
 
-  - [Answer_2]
+  - [create a new branch push your update, and make a new pull request]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -278,7 +275,7 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/samuelmoiwa/react-redux-capstone-project/blob/product_develop/MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
